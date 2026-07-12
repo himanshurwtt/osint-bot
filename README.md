@@ -1,4 +1,4 @@
-# osint-bot
+# Osint-Bot
 
 A terminal themed OSINT (open-source intelligence) Discord bot built with `discord.py`. Every command output is styled like a fake shell session using Discord's `ansi` code blocks — green prompts, colored status tags, the works.
 
