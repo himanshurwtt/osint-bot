@@ -1,6 +1,6 @@
 # Osint-Bot
 
-A terminal themed OSINT (open-source intelligence) Discord bot built with `discord.py`. Every command output is styled like a fake shell session using Discord's `ansi` code blocks — green prompts, colored status tags, the works.
+A terminal themed OSINT (open-source intelligence) Discord bot built with `discord.py`. Every command output is styled like live shell session using Discord's `ansi` code blocks — green prompts, colored status tags, the works.
 
 ![status](https://img.shields.io/badge/status-active-brightgreen) ![python](https://img.shields.io/badge/python-3.13-blue) ![discord.py](https://img.shields.io/badge/discord.py-2.3%2B-blueviolet)
 
@@ -78,8 +78,6 @@ VIRUSTOTAL_API_KEY=
 SHODAN_API_KEY=
 RAPIDAPI_KEY=
 ```
-
-**Never commit your `.env` file.** It's already covered by `.gitignore`.
 
 ### 3. Enable required Discord intents
 
